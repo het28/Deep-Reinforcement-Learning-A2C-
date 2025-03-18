@@ -1,6 +1,6 @@
 # Overview of the project
 
-[Smart Traffic light control using A2C](DL_Project___Smart_Traffic_Simulation_DRAFT.pdf)
+[Smart Traffic light control using A2C]([embed]DL_Project___Smart_Traffic_Simulation_DRAFT.pdf[embed])
 
 # Note
 
