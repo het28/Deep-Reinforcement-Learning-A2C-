@@ -1,3 +1,11 @@
+# Overview of the project
+
+[Smart Traffic light control using A2C](DL_Project___Smart_Traffic_Simulation_DRAFT.pdf)
+
+# Note
+
+This project was done on my University cluster (SUMO simulator and all necessary libraries were already setup)
+
 # Sumo Simulation API
 
 This repository serves as the main hub for maintaining the high level sumo simulation API as it pertains to RL algorithms.
